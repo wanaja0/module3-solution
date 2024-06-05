@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+#header-nav {
+	border-radius: 0px;
+}
+
+.navbar-brand {
+	margin-left: 5px;
+}
+
+#main-content{
+	min-height: 1000px;
+	background-color: lightgrey;
+	margin: 15px;
+	padding: 20px;
+	font-size: 20px;
+}
+
+.ul-styling {
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	background-color: lightslategray;
+}
+
+.ls-styling {
+	padding: 5px;
+	margin: 16px;
+	border: 5px;
+}
+
+.menu-item {
+	border: 2px;
+	border-color: black;
+}
+
+.row {
+	margin: 20px;
+	border: 20px;
+	border-color: black;
+}
+
+.col-xs-12 {
+	padding: 20px;
+	background-color: lightgrey;
+	font-size: 1.4em;
+}
